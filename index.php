@@ -28,3 +28,21 @@
 </body>
 </html>
 
+
+
+<style>
+  body {
+    background-color: #ecf0f1;
+  }
+  .new-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #3498db;
+    color: white;
+    margin-top: 20px;
+  }
+</style>
+
+<div class='new-section'>
+</div>
+
